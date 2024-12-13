@@ -1,0 +1,50 @@
+body {
+    background-color: black; /* Háttérszín: fekete */
+    background-image: url('kepek/auto_background_14.jpg'); /* Háttérkép */
+    background-repeat: no-repeat; /* Háttérkép ne ismétlődjön */
+    color: white; /* Betűszín: fehér */
+    max-width: 1000px; /* Maximális szélesség: 1000px */
+    margin: auto; /* Az oldal középre igazítása */
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /* Betűcsalád */
+  }
+  
+  /* Linkek stílusa */
+  a {
+    color: orange; 
+    text-decoration: none; 
+    padding: 20px; 
+    margin: 30px; 
+    border: 10px solid orange; 
+    border-radius: 50%; 
+    background-color: rgb(50, 48, 48); 
+  }
+  
+  
+  img {
+    width: 400px; 
+    border: 10px solid rgb(50, 48, 48); 
+    border-radius: 50%; 
+    padding: 10px; 
+  }
+  
+  
+  h1 {
+    text-align: center; 
+    font-size: 50px; 
+    letter-spacing: 30px; 
+    text-transform: uppercase; 
+    padding: 20px; 
+  }
+  
+  /* H2 cím stílusa */
+  h2 {
+    background-color: rgb(50, 48, 48); 
+    padding: 30px; 
+    border-radius: 50%; 
+  }
+  
+  
+  p {
+    text-align: justify; 
+    font-size: 15px; 
+  }
